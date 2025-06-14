@@ -1,0 +1,69 @@
+O que é o Microsoft Copilot?
+O Microsoft Copilot é uma ferramenta de inteligência artificial integrada aos produtos da Microsoft (como Word, Excel, PowerPoint, Outlook, Teams, entre outros), baseada em tecnologias como o GPT-4 da OpenAI. Ele atua como um assistente digital que aumenta a produtividade, automatizando tarefas e oferecendo sugestões inteligentes em tempo real.
+
+🔧 Funcionalidades principais por aplicativo
+📄 Word
+Gera textos automaticamente a partir de prompts.
+
+Resume documentos longos.
+
+Sugere reformulações de frases e melhorias de estilo.
+
+Cria rascunhos com base em dados de outros documentos.
+
+📊 Excel
+Analisa dados e sugere gráficos automaticamente.
+
+Cria fórmulas complexas com linguagem natural ("Quanto foi o total de vendas em maio?").
+
+Identifica padrões e anomalias.
+
+Responde a perguntas sobre os dados.
+
+📈 PowerPoint
+Gera apresentações completas a partir de resumos ou documentos.
+
+Sugere layouts e imagens.
+
+Reescreve textos para torná-los mais claros ou impactantes.
+
+Cria notas de apresentação e resumos.
+
+✉️ Outlook
+Redige e resume e-mails automaticamente.
+
+Sugere respostas rápidas e bem elaboradas.
+
+Resume longas trocas de e-mail.
+
+Identifica os itens de ação em mensagens.
+
+💬 Teams
+Resume reuniões em tempo real (transcrições e tópicos discutidos).
+
+Gera ata de reunião com tarefas atribuídas.
+
+Sugere próximas etapas.
+
+Permite interação com documentos e dados durante a reunião via chat.
+
+🌐 Copilot no Microsoft 365 (Interface unificada)
+Permite fazer perguntas e executar comandos sobre arquivos, e-mails, chats e reuniões.
+
+Acessa dados corporativos com segurança e privacidade.
+
+Funciona como um buscador interno inteligente (ex: “Me mostre o relatório de vendas da última semana”).
+
+🖥️ Usabilidade
+Interface familiar: embutido nos próprios aplicativos do Office.
+
+Uso por comandos em linguagem natural: não requer saber fórmulas, códigos ou comandos complexos.
+
+Personalização: adapta-se ao estilo e contexto do usuário com base em permissões e documentos acessados.
+
+Colaboração: acelera o trabalho em equipe, especialmente em ambientes corporativos com grande volume de dados.
+
+🔒 Segurança e privacidade
+Integrado ao Microsoft 365, respeita as permissões e políticas de segurança da organização.
+
+Não acessa dados fora do ambiente autorizado do usuário.
